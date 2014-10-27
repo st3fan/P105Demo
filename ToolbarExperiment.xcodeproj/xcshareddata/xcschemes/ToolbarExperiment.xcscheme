@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E4D5385519EFEF4200270B77"
-               BuildableName = "ToolbarExperiment.app"
-               BlueprintName = "ToolbarExperiment"
+               BuildableName = "P105Demo.app"
+               BlueprintName = "P105Demo"
                ReferencedContainer = "container:ToolbarExperiment.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -57,8 +57,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4D5385519EFEF4200270B77"
-            BuildableName = "ToolbarExperiment.app"
-            BlueprintName = "ToolbarExperiment"
+            BuildableName = "P105Demo.app"
+            BlueprintName = "P105Demo"
             ReferencedContainer = "container:ToolbarExperiment.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4D5385519EFEF4200270B77"
-            BuildableName = "ToolbarExperiment.app"
-            BlueprintName = "ToolbarExperiment"
+            BuildableName = "P105Demo.app"
+            BlueprintName = "P105Demo"
             ReferencedContainer = "container:ToolbarExperiment.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -94,8 +94,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E4D5385519EFEF4200270B77"
-            BuildableName = "ToolbarExperiment.app"
-            BlueprintName = "ToolbarExperiment"
+            BuildableName = "P105Demo.app"
+            BlueprintName = "P105Demo"
             ReferencedContainer = "container:ToolbarExperiment.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

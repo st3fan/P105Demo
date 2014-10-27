@@ -356,9 +356,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E4D5385519EFEF4200270B77 /* ToolbarExperiment */ = {
+		E4D5385519EFEF4200270B77 /* P105Demo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E4D5387519EFEF4200270B77 /* Build configuration list for PBXNativeTarget "ToolbarExperiment" */;
+			buildConfigurationList = E4D5387519EFEF4200270B77 /* Build configuration list for PBXNativeTarget "P105Demo" */;
 			buildPhases = (
 				E4D5385219EFEF4200270B77 /* Sources */,
 				E4D5385319EFEF4200270B77 /* Frameworks */,
@@ -370,7 +370,7 @@
 			dependencies = (
 				E4D7C7BF19FA7D15000BBCDE /* PBXTargetDependency */,
 			);
-			name = ToolbarExperiment;
+			name = P105Demo;
 			productName = ToolbarExperiment;
 			productReference = E4D5385619EFEF4200270B77 /* ToolbarExperiment.app */;
 			productType = "com.apple.product-type.application";
@@ -430,7 +430,7 @@
 			);
 			projectRoot = "";
 			targets = (
-				E4D5385519EFEF4200270B77 /* ToolbarExperiment */,
+				E4D5385519EFEF4200270B77 /* P105Demo */,
 				E4D5386A19EFEF4200270B77 /* ToolbarExperimentTests */,
 			);
 		};
@@ -550,7 +550,7 @@
 /* Begin PBXTargetDependency section */
 		E4D5386D19EFEF4200270B77 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E4D5385519EFEF4200270B77 /* ToolbarExperiment */;
+			target = E4D5385519EFEF4200270B77 /* P105Demo */;
 			targetProxy = E4D5386C19EFEF4200270B77 /* PBXContainerItemProxy */;
 		};
 		E4D7C7BF19FA7D15000BBCDE /* PBXTargetDependency */ = {
@@ -661,6 +661,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				INFOPLIST_FILE = ToolbarExperiment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -671,6 +672,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				INFOPLIST_FILE = ToolbarExperiment/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -723,7 +725,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E4D5387519EFEF4200270B77 /* Build configuration list for PBXNativeTarget "ToolbarExperiment" */ = {
+		E4D5387519EFEF4200270B77 /* Build configuration list for PBXNativeTarget "P105Demo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E4D5387619EFEF4200270B77 /* Debug */,
